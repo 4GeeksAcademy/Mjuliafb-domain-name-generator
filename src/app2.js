@@ -7,10 +7,10 @@ window.onload = function() {
         let noun = ['animal', 'conejos','miop'];
         let dot = ['.com', '.net', ".org"];
     
-        let pronounIndex = Math.floor(Math.random() * pronoun.length);
-        let adjIndex = Math.floor(Math.random() * adj.length);
-        let nounIndex = Math.floor(Math.random() * noun.length);
-        let dotIndex = Math.floor(Math.random() * dot.length);
+       //  let pronounIndex = Math.floor(Math.random() * pronoun.length);
+      //  let adjIndex = Math.floor(Math.random() * adj.length);
+      //  let nounIndex = Math.floor(Math.random() * noun.length);
+      //  let dotIndex = Math.floor(Math.random() * dot.length);
         
             for (let pronounIndex = 0; pronounIndex < pronoun.length; pronounIndex++) {
                 for (let adjIndex = 0; adjIndex < adj.length; adjIndex++) {
