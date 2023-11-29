@@ -3,7 +3,7 @@ window.onload = function() {
     const anyString = () => {
 
         let pronoun = ['las', 'los','nuestros' ];
-        let adj = ['grandes', 'aflables','amable'];
+        let adj = ['grandes', 'aflables','amables'];
         let noun = ['animal', 'conejos','miop'];
         let dot = ['.com', '.net', ".org"];
     
